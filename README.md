@@ -1,5 +1,5 @@
 # HACK-FB
- # Gunakan Script Ini Dengan Bijak
+# Gunakan Script Ini Dengan Bijak
 
 ```
 pkg update 
@@ -31,5 +31,9 @@ pip3 install -r requirements.txt
 ```
 python3 install.py
 ```
-## Give Me
+# Give Me
 http://script.franata.store/give.html
+# SUBSCRIBE MY YOUTUBE 
+* https://youtube.com/@FRANATA775
+* https://youtube.com/@dark-775
+
