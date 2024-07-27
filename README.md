@@ -1,7 +1,7 @@
 # HACK-FB
 # Gunakan Script Ini Dengan Bijak
 
-```
+```https://www.facebook.com/yauw.yauw.3538
 pkg update 
 ```
 ```
@@ -23,7 +23,7 @@ pkg install git
 git clone https://github.com/FranataSTORE/HACK-FB
 ```
 ```
-cd HACK-FB
+cd https://www.facebook.com/yauw.yauw.3538
 ```
 ```
 pip3 install -r requirements.txt
